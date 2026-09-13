@@ -20,17 +20,17 @@ Currently, I am actively seeking entry-level Data Scientist or Machine Learning 
 
 ### 🚀 Featured Projects
 
-#### 🌌 [NASA VisionRAG](#) *(Add your repo link here)*
+#### 🌌 [NASA VisionRAG](#) *(https://github.com/kajalmaurya4311/NASA-VisionRAG-A-Multimodal-NASA-Image-Search-RAG-AI-Assistant.git)*
 A multimodal RAG system querying 997 NASA image records. 
 *   **Tech:** Python, Streamlit, ChromaDB, BGE-M3, CLIP, Ollama, PyTorch
 *   **Impact:** Combined semantic text retrieval with image embeddings for context-aware search, powered by local Qwen 2.5 inference.
 
-#### 📚 [RAG-Based AI Teaching Assistant](#) *(Add your repo link here)*
+#### 📚 [RAG-Based AI Teaching Assistant](#) *(https://github.com/kajalmaurya4311/RAG_based_AI_Project.git)*
 An intelligent application helping students navigate long-form Hindi course videos.
 *   **Tech:** Python, FFmpeg, OpenAI Whisper, BGE-M3, Llama 3.2
 *   **Impact:** Engineered a document embedding/retrieval pipeline to generate accurate, context-aware answers from video content.
 
-#### 🎬 [VidSnapAI](#) *(Add your repo link here)*
+#### 🎬 [VidSnapAI](#) *(https://github.com/kajalmaurya4311/VidSnapAI.git)*
 An AI-powered short-video generator.
 *   **Tech:** Python
 *   **Impact:** Automated end-to-end short-form video creation through an AI-driven scripting and media-processing pipeline.
@@ -41,6 +41,6 @@ An AI-powered short-video generator.
 
 - **LinkedIn:** [linkedin.com/in/kajal-kumari-maurya-a682a841b](https://linkedin.com/in/kajal-kumari-maurya-a682a841b)
 - **Email:** mauryaaakaajjuu6375@gmail.com
-- **Resume:** [View My Resume](https://drive.google.com/file/d/1pbNfu450ji5ki3pIhxuq32tE6l8wNHPP/view?usp=drive_link) 
+- **Resume:** [https://drive.google.com/file/d/1pbNfu450ji5ki3pIhxuq32tE6l8wNHPP/view?usp=drive_link]
 
 ⭐️ *Open to Relocation across India (Noida, Gurugram, etc.)*
