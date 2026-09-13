@@ -2,7 +2,7 @@
 
 ### Aspiring Data Scientist | Machine Learning & Generative AI Engineer
 
-I am a Computer Science Engineering (B.Tech '24) graduate passionate about solving real-world problems through data and artificial intelligence. I specialize in building **Retrieval-Augmented Generation (RAG) systems**, **LLM-powered applications**, and **end-to-end Machine Learning pipelines**. 
+I am a Computer Science Engineering (B.Tech) graduate passionate about solving real-world problems through data and artificial intelligence. I specialize in building **Retrieval-Augmented Generation (RAG) systems**, **LLM-powered applications**, and **end-to-end Machine Learning pipelines**. 
 
 Currently, I am actively seeking entry-level Data Scientist or Machine Learning Engineer roles where I can apply my analytical thinking and model-building skills.
 
