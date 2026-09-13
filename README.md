@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Kajal Kumari Maurya! 👋
 
-<!--
-**kajalmaurya4311/kajalmaurya4311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Machine Learning & Generative AI Engineer
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering (B.Tech '24) graduate passionate about solving real-world problems through data and artificial intelligence. I specialize in building **Retrieval-Augmented Generation (RAG) systems**, **LLM-powered applications**, and **end-to-end Machine Learning pipelines**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am actively seeking entry-level Data Scientist or Machine Learning Engineer roles where I can apply my analytical thinking and model-building skills.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Programming:** Python, Java, SQL
+- **Machine Learning & GenAI:** PyTorch, TensorFlow, Keras, Scikit-learn, LangChain, RAG, NLP, LLMs (Llama 3, Qwen)
+- **Data Analysis & Visualization:** Pandas, NumPy, Power BI, Matplotlib, Seaborn
+- **Databases:** MySQL, MongoDB, ChromaDB (Vector DB)
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌌 [NASA VisionRAG](#) *(Add your repo link here)*
+A multimodal RAG system querying 997 NASA image records. 
+*   **Tech:** Python, Streamlit, ChromaDB, BGE-M3, CLIP, Ollama, PyTorch
+*   **Impact:** Combined semantic text retrieval with image embeddings for context-aware search, powered by local Qwen 2.5 inference.
+
+#### 📚 [RAG-Based AI Teaching Assistant](#) *(Add your repo link here)*
+An intelligent application helping students navigate long-form Hindi course videos.
+*   **Tech:** Python, FFmpeg, OpenAI Whisper, BGE-M3, Llama 3.2
+*   **Impact:** Engineered a document embedding/retrieval pipeline to generate accurate, context-aware answers from video content.
+
+#### 🎬 [VidSnapAI](#) *(Add your repo link here)*
+An AI-powered short-video generator.
+*   **Tech:** Python
+*   **Impact:** Automated end-to-end short-form video creation through an AI-driven scripting and media-processing pipeline.
+
+---
+
+### 📫 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/kajal-kumari-maurya-a682a841b](https://linkedin.com/in/kajal-kumari-maurya-a682a841b)
+- **Email:** mauryaaakaajjuu6375@gmail.com
+- **Resume:** [View My Resume](https://drive.google.com/file/d/1pbNfu450ji5ki3pIhxuq32tE6l8wNHPP/view?usp=drive_link) 
+
+⭐️ *Open to Relocation across India (Noida, Gurugram, etc.)*
